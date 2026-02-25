@@ -60,10 +60,6 @@ All commands must be executed from the root project directory.
 **How to Run the Project (Step-by-Step)**
 *Step 1: Clone the Repository*
 
-Open terminal and run:
-
-git clone https://github.com/NinceyThomas/tourism-recommendation-system.git
-
 Then navigate into the project folder:
 
 cd tourism-recommendation-system
